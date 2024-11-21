@@ -1,0 +1,77 @@
+const MenuData=[
+    {
+        id:1,
+        name:"Book-3",
+        itemAdd:false,
+        auther:"Dev",
+        quantity:1,
+        prize:330,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Gwe6bvDzQIZ6u2uhLjV5ITAHNcjE9zUh28hEUEyeOaNwENMMTfhp0xwNHmA0KQxpvWkZtXTpYtKlfoANE7_CaJ2U9pE3I4ac-fZkx0Jp4oa4IxtzF4M&usqp=CAc"
+    },
+    {
+        id:2,
+        name:"Book-2",
+        itemAdd:false,
+        auther:"web dev",
+        quantity:1,
+        prize:190,
+        image:"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKM6MGgL4yM2TURYhgvYimmPkP04JG7Z72yiJqiLmxRf7a58-pH-HS7Yf2w_xsHMX2nMeHLWCW741vXNPDwF7JjeEnnwbSXh3At3ffKg&usqp=CAc"
+    },
+    {
+        id:3,
+        name:"Book1-1",
+        itemAdd:false,
+        auther:"flutter",
+        quantity:1,
+        prize:120,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyweTPcnxKsIgTaJkRXxBfsnONHEreDAG0qdVPL4nkcM6kbL6aHyTj2XeAP4qzqvzo-AzMAQwKK2pdo-pSj8qWhDV2IFNAIqGAxbF3DGdetSeEHhs46Ac&usqp=CAc"
+    },
+    {
+        id:4,
+        name:"Book-3",
+        itemAdd:false,
+        auther:"Dev",
+        quantity:1,
+        prize:150,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Gwe6bvDzQIZ6u2uhLjV5ITAHNcjE9zUh28hEUEyeOaNwENMMTfhp0xwNHmA0KQxpvWkZtXTpYtKlfoANE7_CaJ2U9pE3I4ac-fZkx0Jp4oa4IxtzF4M&usqp=CAc"
+    },
+    {
+        id:5,
+        name:"Book-3",
+        itemAdd:false,
+        auther:"Dev",
+        quantity:1,
+        prize:220,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Gwe6bvDzQIZ6u2uhLjV5ITAHNcjE9zUh28hEUEyeOaNwENMMTfhp0xwNHmA0KQxpvWkZtXTpYtKlfoANE7_CaJ2U9pE3I4ac-fZkx0Jp4oa4IxtzF4M&usqp=CAc"
+    },
+    {
+        id:6,
+        name:"Book-3",
+        itemAdd:false,
+        auther:"Dev",
+        quantity:1,
+        prize:150,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8Gwe6bvDzQIZ6u2uhLjV5ITAHNcjE9zUh28hEUEyeOaNwENMMTfhp0xwNHmA0KQxpvWkZtXTpYtKlfoANE7_CaJ2U9pE3I4ac-fZkx0Jp4oa4IxtzF4M&usqp=CAc"
+    },
+    {
+        id:7,
+        name:"Book-2",
+        itemAdd:false,
+        auther:"web dev",
+        quantity:1,
+        prize:170,
+        image:"https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTKM6MGgL4yM2TURYhgvYimmPkP04JG7Z72yiJqiLmxRf7a58-pH-HS7Yf2w_xsHMX2nMeHLWCW741vXNPDwF7JjeEnnwbSXh3At3ffKg&usqp=CAc"
+    },
+    {
+        id:8,
+        name:"Book1-1",
+        itemAdd:false,
+        auther:"flutter",
+        quantity:1,
+        prize:150,
+        image:"https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRyweTPcnxKsIgTaJkRXxBfsnONHEreDAG0qdVPL4nkcM6kbL6aHyTj2XeAP4qzqvzo-AzMAQwKK2pdo-pSj8qWhDV2IFNAIqGAxbF3DGdetSeEHhs46Ac&usqp=CAc"
+    },
+   
+];
+export default MenuData;
+  
